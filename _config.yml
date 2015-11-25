@@ -1,0 +1,28 @@
+name: scyfe
+favicon: null
+layout_spectrum: 0.014632557518780231
+typography_spectrum: 0.6690564160235226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6055993586778641
+  lightness: 0.43849597964435816
+  saturation: 0.13138689403422177
+  rhythmicContrast: 0.5865529081784189
+purpose: []
